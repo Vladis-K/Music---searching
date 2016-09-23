@@ -1,0 +1,11 @@
+body {
+  font-family: 'Open Sans', 'Roboto', 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
+  margin: 20px;
+  padding: 0; }
+
+.container {
+  margin-top: 20px; }
+
+.table > tbody > tr > td {
+  padding: 3px; }

@@ -1,0 +1,6 @@
+Send - 
+https://oauth.vk.com/authorize?client_id=5636433&display=page&https://oauth.vk.com/blank.html&scope=audio&response_type=token&v=5.53&state=123456
+
+Response:
+
+https://api.vk.com/method/audio.search?q=баста&access_token=70ff98fc34650148a7f6da218238844ae004f2323e16a6b93c3639cea330d93f59acb6b8f83ce30cb9836&v=V
